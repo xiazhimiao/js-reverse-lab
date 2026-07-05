@@ -8,3 +8,8 @@ __pycache__/
 *.log
 *.txt
 *.tmp
+# Node依赖包，禁止提交
+node_modules/
+package-lock.json
+yarn.lock
+npm-debug.log
