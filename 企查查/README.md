@@ -1,0 +1,4 @@
+- Hmac案例
+- 目标站点：https://www.qcc.com/
+- 逆向参数：8b1514995cca89943222:6b0233c13795675fd165e8d669eb887999fd1c23b5c12e144edacc526ad0761c6f8882357bab89fc3bbc940ba1c0d0c28a4635cf784177ea31231992db8ceccd
+- 接口地址：https://www.qcc.com/api/search/searchMulti
