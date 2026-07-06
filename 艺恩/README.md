@@ -1,0 +1,6 @@
+- 站点地址：https://www.endata.com.cn/BoxOffice/BO/Month/oneMonth.html
+- 备用地址：https://www.endata.com.cn/Market/report.html
+- 数据接口：https://www.endata.com.cn/API/GetData.ashx
+- 逆向要求：对服务器返回的数据完成解密
+- 这个页面不见了。
+- 之前解决方案是hook Json.parse()，然后全扣解密的代码。
