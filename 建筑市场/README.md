@@ -1,0 +1,3 @@
+- 网站地址：https://jzsc.mohurd.gov.cn/data/company
+- 接口地址：APi/webApi/dataservice/query/comp/list 
+- 该网站接口返回的数据为密文
