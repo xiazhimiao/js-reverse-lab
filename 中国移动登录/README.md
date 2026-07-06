@@ -1,0 +1,3 @@
+- 网站地址：https://login.10086.cn/html/login/email_login.html
+- 接口地址：https://login.10086.cn/login.htm
+- 加密参数：account、password
