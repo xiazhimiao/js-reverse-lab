@@ -1,0 +1,3 @@
+- 网站地址：https://ec.minmetals.com.cn/open/home/platform-info
+- 接口地址：https://ec.minmetals.com.cn/open/homepage/zbs/by-lx-page
+- 加密数据：param
