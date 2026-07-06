@@ -1,0 +1,4 @@
+- HmacSHA1案例
+- 目标站点：https://www.baosteel.com/media/news
+- 逆向参数：x-signature
+- 接口地址：v1/web/api/content/list
