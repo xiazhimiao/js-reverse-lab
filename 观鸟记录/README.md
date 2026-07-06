@@ -1,0 +1,3 @@
+- 站点地址：网站地址：https://www.birdreport.cn/home/activity/page.html
+- 接口地址：https://api.birdreport.cn/front/activity/search
+- 加密参数：form表单、response响应、请求头sign、请求头Requestid
