@@ -1,0 +1,3 @@
+- 目标站点：网站地址：https://www.ccprec.com/projectSecPage/#/cqzr
+- 接口地址：https://www.ccprec.com/honsanCloudAct
+- 请求发送携带的数据与接口返回的数据都是加密的，需要对这些数据完成解密操作
