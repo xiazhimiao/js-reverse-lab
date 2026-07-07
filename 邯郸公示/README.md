@@ -1,0 +1,4 @@
+- 站点地址：https://credit.hd.gov.cn/xyxxgs/
+- 加密参数：
+    -    查询字符串参数：nonceStr、queryContent、sign 
+    -    响应参数：进制流
