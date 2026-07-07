@@ -1,0 +1,3 @@
+- 站点地址：https://www.hanghangcha.com/hhcreport
+- 接口地址:https://api.hanghangcha.com/hhc/member/industry/getReportList
+- 加密参数：响应数据加密
