@@ -1,6 +1,8 @@
 {
   "dependencies": {
+    "big-integer": "^1.6.52",
     "crypto-js": "^4.2.0",
-    "jsencrypt": "^3.5.4"
+    "jsencrypt": "^3.5.4",
+    "sm-crypto": "^0.4.0"
   }
 }
