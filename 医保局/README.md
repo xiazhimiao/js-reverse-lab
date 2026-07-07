@@ -1,0 +1,3 @@
+- Hmac案例
+- 目标站点：https://fuwu.nhsa.gov.cn/nationalHallSt/#/search/medical?code=90000&flag=false&gbFlag=true
+- 逆向参数：请求头参数：x-tif-nonce、x-tif-signature、x-tif-timestamp、x-tingyun（参数固定不影响请求，可不补） 响应参数：encdata
