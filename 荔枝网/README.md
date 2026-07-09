@@ -1,0 +1,3 @@
+- 网站地址：https://www.gdtv.cn/channels/2
+- 接口地址：https://gdtv-api.gdtv.cn/api/channel/v1/news
+- 逆向参数：x-itouchtv-ca-key、x-itouchtv-ca-signature、x-itouchtv-ca-timestamp、x-itouchtv-device-id
