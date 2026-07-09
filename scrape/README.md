@@ -1,0 +1,2 @@
+- 网站地址：https://spa14.scrape.center/
+- 逆向参数：sign
