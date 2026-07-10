@@ -1,0 +1,2 @@
+- 微信小程序接口地址：https://66miniapp-api.66zhizu.com/client/search/house?sequence=1752502459.460%3B1752583686.238&city=%E4%B8%8A%E6%B5%B7&region=&distance=&longitude=&latitude=&stations=&bed_count=&rent_type=&sort=&cost1=&cost2=
+- 逆向参数：Authorization
