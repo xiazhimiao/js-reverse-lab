@@ -1,0 +1,3 @@
+- 网站地址：http://q.10jqka.com.cn/
+- 数据接口：http://q.10jqka.com.cn/index/index/board/all/field/zdf/order/desc/page/2/ajax/1/
+- 逆向需求：hexin-v、cookie
