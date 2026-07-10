@@ -1,0 +1,3 @@
+- 请求地址：https://hangzhou.qccqcc.com/
+- 逆向参数：Sign、Content、响应数据
+- 网站算法更新，有需要再逆向
