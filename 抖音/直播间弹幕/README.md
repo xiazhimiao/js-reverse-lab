@@ -1,0 +1,2 @@
+- 网站地址：https://live.douyin.com/230909183663
+- 逆向参数：signature、room_id、请求wss的cookie、响应消息反序列化
