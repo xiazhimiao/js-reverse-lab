@@ -1,0 +1,2 @@
+- API地址：https://api.betterwood.com/base/app/store/listV2
+- 逆向参数：messageid、signature
