@@ -31,7 +31,7 @@ params = {
     "total": "450"
 }
 response = requests.get(url, headers=headers, cookies=cookies, params=params)
-with open('1建筑市场.js', 'r', encoding='utf-8') as f:
+with open('1.建筑市场.js', 'r', encoding='utf-8') as f:
     js_code = f.read()
 
 ctx = execjs.compile(js_code)
