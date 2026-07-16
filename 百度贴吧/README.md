@@ -1,0 +1,3 @@
+- 接口：https://tieba.baidu.com/c/f/frs/page_pc
+- 逆向参数：sign
+- TODO：tbs请求拿到
