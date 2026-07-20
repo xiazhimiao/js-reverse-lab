@@ -25,10 +25,11 @@ headers = {
 }
 
 # 补上你原来的cookies字典（缺失导致NameError）
-cookies = {
-    "ZDO0ZhZUfw4xO": "60VP62sxCC3UAap7oy8rs2nNV1sHVXuMgZFzOvxtralTqdG8FBa.vnFUeQMNB7gcUEXCdzge8NPESa.haZ0nlrIa",
-    "ZDO0ZhZUfw4xP": "0el6Gy8bM_FQVqBas8wuSccJ7BjFYKa1VnUHyVBx9.8MDcz96AFp2wbPjoXTAsqB_ZASxZ_IKcEetZWwnN4dpOVSnNPr2B3C0d8tTnKeDhKWEwd0QRzvgOE5AQaRVaKtB2XFpDAo9QUd2W2AsOQ0Vd8EcbV_71z4tFipJ92179635SnWC47yH0xihE0f32Q0lIwEkYhi2XQY6B9wR00jyh1lnbc.HTKiv0O6m5iXcAEGjLOSBL.PdcCXTPfZCf7wmgZCjl3ZzVR_JqgBarIVZZnaQwX68M.EvUdK2tkSibjgVeZgB8JfXxn0zwMBYR0IZjy6W7kxUtNl862tQJ6AJqRwZYZH811p.CCVl64oHhVrujddAmb4PDEmgIxL3M0u4KZWiTZsY617QGpmtOuxd8gEEuuFoyMscC5fd7cRmVEo7MRz5zBKhzN6ixC.8w.RDmN_9cbIPYsczblUN7jY5Sa"
-}
+# cookies = {
+#     "ZDO0ZhZUfw4xO": "60VP62sxCC3UAap7oy8rs2nNV1sHVXuMgZFzOvxtralTqdG8FBa.vnFUeQMNB7gcUEXCdzge8NPESa.haZ0nlrIa",
+#     "ZDO0ZhZUfw4xP": "0el6Gy8bM_FQVqBas8wuSccJ7BjFYKa1VnUHyVBx9.8MDcz96AFp2wbPjoXTAsqB_ZASxZ_IKcEetZWwnN4dpOVSnNPr2B3C0d8tTnKeDhKWEwd0QRzvgOE5AQaRVaKtB2XFpDAo9QUd2W2AsOQ0Vd8EcbV_71z4tFipJ92179635SnWC47yH0xihE0f32Q0lIwEkYhi2XQY6B9wR00jyh1lnbc.HTKiv0O6m5iXcAEGjLOSBL.PdcCXTPfZCf7wmgZCjl3ZzVR_JqgBarIVZZnaQwX68M.EvUdK2tkSibjgVeZgB8JfXxn0zwMBYR0IZjy6W7kxUtNl862tQJ6AJqRwZYZH811p.CCVl64oHhVrujddAmb4PDEmgIxL3M0u4KZWiTZsY617QGpmtOuxd8gEEuuFoyMscC5fd7cRmVEo7MRz5zBKhzN6ixC.8w.RDmN_9cbIPYsczblUN7jY5Sa"
+# }
+cookies = {}
 
 # 目标站点，末尾不要斜杠
 base_url = "https://etax.ningbo.chinatax.gov.cn:8443"
